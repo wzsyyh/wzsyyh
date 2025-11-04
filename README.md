@@ -36,7 +36,7 @@ An interactive multi-agent system for creating and customizing research presenta
 
 - 📮 Email: [yangyuheng@westlake.edu.cn](mailto:yangyuheng@westlake.edu.cn)
 - 🌐 Personal Website: [wzsyyh.github.io](https://wzsyyh.github.io/)
-- 💼 LinkedIn: [linkedin.com/in/宇恒-杨-551830389](https://www.linkedin.com/in/%E5%AE%87%E6%81%92-%E6%9D%A8-551830389/)
+- 💼 LinkedIn: [linkedin.com/in/yangyuheng](https://www.linkedin.com/in/yangyuheng/)
 - 🎓 Google Scholar: [scholar.google.com](https://scholar.google.com/citations?user=BlTtSUkAAAAJ&hl=zh-CN)
 - 💻 GitHub: [@wzsyyh](https://github.com/wzsyyh)
 
