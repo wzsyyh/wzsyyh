@@ -9,7 +9,8 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Gold Medal** in ICPC 2025 Xi'an Regional Contest
+- 🥇 **Gold Medal** in ICPC 2025 Regional Contest
+- 🥇 **Gold Medal** in CCPC 2025 Regional Contest
 - 🏅 **First Prize** in NOIP 2023 Zhejiang Province
 - 🎤 **Top 10 Singer** in Westlake University 2024
 
