@@ -5,6 +5,7 @@
 - 🎓 Undergraduate student at **Westlake University** (Class of 2028), majoring in Artificial Intelligence
 - 🔬 Research Assistant at [AGI Lab](https://github.com/Westlake-AGI-Lab), working with [Prof. Chi Zhang](https://icoz69.github.io/)
 - 🤖 Interested in **AI Agent** and **MLLM Reasoning**
+- 🌟 Conducted research as an intern at **UIUC** under [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and at **UC Merced** under [Prof. Yiwei Wang](https://wangywust.github.io/)
 - 🚀 Creator & Lead Developer of [Auto-Slides](https://auto-slides.github.io/) - Multi-agent system for automatic academic presentation generation
 
 ## 🏆 Achievements
@@ -16,9 +17,10 @@
 
 ## 💫 Hobbies & Interests
 
-- ⚽ **Football**: Real Madrid fan, particularly admire Luka Modrić
-- 🎵 **Music Creation**: Love creating music, fan of Hua Chenyu (华晨宇) and G.E.M. (邓紫棋)
+- ⚽ **Football**: Real Madrid fan, particularly admire Luka Modrić. **Captain** of the undergraduate college team in the 2025 Westlake University Football League
+- 🎵 **Music Creation**: Love creating music, check out my [NetEase Cloud Music Artist Page](https://music.163.com/#/artist?id=94272057), fan of Hua Chenyu (华晨宇) and G.E.M. (邓紫棋)
 - 🎩 **Magic**: Enthusiastic about magic tricks
+- ♟️ **Go (Weiqi)**: Amateur 4-dan player
 
 ## 🔥 Featured Projects
 
