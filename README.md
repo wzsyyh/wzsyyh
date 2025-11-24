@@ -5,7 +5,7 @@
 - 🎓 Undergraduate student at **Westlake University** (Class of 2028), majoring in Artificial Intelligence
 - 🔬 Research Assistant at [AGI Lab](https://github.com/Westlake-AGI-Lab), working with [Prof. Chi Zhang](https://icoz69.github.io/)
 - 🤖 Interested in **AI Agent** and **MLLM Reasoning**
-- 🌟 Conducted research as an intern at **UIUC** under [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and at **UC Merced** under [Prof. Yiwei Wang](https://wangywust.github.io/)
+- 🌟 Currently interning at **UIUC** with [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/), previously interned at **UC Merced** with [Prof. Yiwei Wang](https://wangywust.github.io/)
 - 🚀 Creator & Lead Developer of [Auto-Slides](https://auto-slides.github.io/) - Multi-agent system for automatic academic presentation generation
 
 ## 🏆 Achievements
